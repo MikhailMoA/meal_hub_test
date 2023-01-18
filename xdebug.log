@@ -1,0 +1,1686 @@
+[7] Log opened at 2023-01-17 17:51:57.888844
+[7] [Step Debug] INFO: Checking remote connect back address.
+[7] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[7] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[7] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[7] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[7] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[7] Log closed at 2023-01-17 17:51:57.892479
+
+[9] Log opened at 2023-01-17 17:52:53.347331
+[9] [Step Debug] INFO: Checking remote connect back address.
+[9] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[9] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[9] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[9] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[9] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[479] Log opened at 2023-01-17 17:53:13.896349
+[479] [Step Debug] INFO: Checking remote connect back address.
+[479] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[479] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[479] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[479] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[479] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[479] [Step Debug] INFO: Checking remote connect back address.
+[479] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[479] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[479] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[479] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[479] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[479] Log closed at 2023-01-17 17:53:14.149297
+
+[482] Log opened at 2023-01-17 17:53:14.443863
+[482] [Step Debug] INFO: Checking remote connect back address.
+[482] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[482] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[482] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[482] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[482] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[482] [Step Debug] INFO: Checking remote connect back address.
+[482] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[482] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[482] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[482] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[482] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[482] Log closed at 2023-01-17 17:53:14.643149
+
+[9] Log closed at 2023-01-17 17:53:14.691107
+
+[8] Log opened at 2023-01-17 17:53:32.696025
+[8] [Step Debug] INFO: Checking remote connect back address.
+[8] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[8] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[8] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[8] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[8] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[8] [Step Debug] INFO: Checking remote connect back address.
+[8] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[8] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[8] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[8] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[8] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[8] Log closed at 2023-01-17 17:53:33.131915
+
+[7] Log opened at 2023-01-17 17:53:34.055003
+[7] [Step Debug] INFO: Checking remote connect back address.
+[7] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[7] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[7] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[7] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[7] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[7] [Step Debug] INFO: Checking remote connect back address.
+[7] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[7] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[7] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[7] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[7] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[7] Log closed at 2023-01-17 17:53:34.406696
+
+[496] Log opened at 2023-01-17 17:53:53.799366
+[496] [Step Debug] INFO: Checking remote connect back address.
+[496] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[496] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[496] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[496] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[496] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[496] [Step Debug] INFO: Checking remote connect back address.
+[496] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[496] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[496] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[496] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[496] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[496] Log closed at 2023-01-17 17:53:54.090927
+
+[8] Log opened at 2023-01-17 17:53:56.927079
+[8] [Step Debug] INFO: Checking remote connect back address.
+[8] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[8] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[8] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[8] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[8] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[8] [Step Debug] INFO: Checking remote connect back address.
+[8] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[8] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[8] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[8] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[8] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[8] Log closed at 2023-01-17 17:53:57.113134
+
+[7] Log opened at 2023-01-17 17:55:26.055206
+[7] [Step Debug] INFO: Checking remote connect back address.
+[7] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[7] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[7] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[7] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[7] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[7] [Step Debug] INFO: Checking remote connect back address.
+[7] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[7] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[7] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[7] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[7] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[7] Log closed at 2023-01-17 17:55:26.235935
+
+[498] Log opened at 2023-01-17 18:02:09.292060
+[498] [Step Debug] INFO: Checking remote connect back address.
+[498] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[498] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[498] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[498] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[498] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[498] [Step Debug] INFO: Checking remote connect back address.
+[498] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[498] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[498] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[498] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[498] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[498] Log closed at 2023-01-17 18:02:09.527939
+
+[500] Log opened at 2023-01-17 18:08:11.645750
+[500] [Step Debug] INFO: Checking remote connect back address.
+[500] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[500] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[500] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[500] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[500] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[500] [Step Debug] INFO: Checking remote connect back address.
+[500] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[500] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[500] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[500] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[500] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[500] Log closed at 2023-01-17 18:08:11.942626
+
+[502] Log opened at 2023-01-17 18:11:57.160159
+[502] [Step Debug] INFO: Checking remote connect back address.
+[502] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[502] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[502] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[502] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[502] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[502] [Step Debug] INFO: Checking remote connect back address.
+[502] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[502] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[502] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[502] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[502] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[502] Log closed at 2023-01-17 18:11:57.417390
+
+[504] Log opened at 2023-01-17 18:13:03.884075
+[504] [Step Debug] INFO: Checking remote connect back address.
+[504] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[504] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[504] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[504] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[504] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[504] [Step Debug] INFO: Checking remote connect back address.
+[504] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[504] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[504] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[504] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[504] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[504] Log closed at 2023-01-17 18:13:04.204151
+
+[506] Log opened at 2023-01-17 18:13:28.849239
+[506] [Step Debug] INFO: Checking remote connect back address.
+[506] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[506] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[506] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[506] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[506] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[506] [Step Debug] INFO: Checking remote connect back address.
+[506] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[506] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[506] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[506] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[506] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[506] Log closed at 2023-01-17 18:13:29.111878
+
+[508] Log opened at 2023-01-17 18:14:28.626057
+[508] [Step Debug] INFO: Checking remote connect back address.
+[508] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[508] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[508] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[508] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[508] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[508] [Step Debug] INFO: Checking remote connect back address.
+[508] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[508] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[508] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[508] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[508] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[508] Log closed at 2023-01-17 18:14:28.776521
+
+[510] Log opened at 2023-01-17 18:17:38.680250
+[510] [Step Debug] INFO: Checking remote connect back address.
+[510] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[510] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[510] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[510] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[510] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[510] [Step Debug] INFO: Checking remote connect back address.
+[510] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[510] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[510] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[510] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[510] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[510] Log closed at 2023-01-17 18:17:38.828219
+
+[512] Log opened at 2023-01-17 18:18:07.142624
+[512] [Step Debug] INFO: Checking remote connect back address.
+[512] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[512] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[512] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[512] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[512] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[512] [Step Debug] INFO: Checking remote connect back address.
+[512] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[512] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[512] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[512] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[512] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[512] [Step Debug] INFO: Checking remote connect back address.
+[512] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[512] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[512] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[512] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[512] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[512] [Step Debug] INFO: Checking remote connect back address.
+[512] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[512] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[512] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[512] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[512] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[512] [Step Debug] INFO: Checking remote connect back address.
+[512] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[512] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[512] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[512] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[512] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[512] Log closed at 2023-01-17 18:18:07.418032
+
+[514] Log opened at 2023-01-17 18:18:54.815291
+[514] [Step Debug] INFO: Checking remote connect back address.
+[514] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[514] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[514] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[514] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[514] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[514] [Step Debug] INFO: Checking remote connect back address.
+[514] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[514] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[514] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[514] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[514] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[514] [Step Debug] INFO: Checking remote connect back address.
+[514] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[514] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[514] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[514] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[514] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[514] Log closed at 2023-01-17 18:18:54.997582
+
+[516] Log opened at 2023-01-17 18:19:02.808445
+[516] [Step Debug] INFO: Checking remote connect back address.
+[516] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[516] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[516] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[516] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[516] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[516] [Step Debug] INFO: Checking remote connect back address.
+[516] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[516] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[516] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[516] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[516] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[516] Log closed at 2023-01-17 18:19:03.060137
+
+[518] Log opened at 2023-01-17 18:33:38.012624
+[518] [Step Debug] INFO: Checking remote connect back address.
+[518] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[518] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[518] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[518] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[518] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[518] [Step Debug] INFO: Checking remote connect back address.
+[518] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[518] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[518] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[518] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[518] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[518] Log closed at 2023-01-17 18:33:38.281150
+
+[520] Log opened at 2023-01-17 18:33:46.206013
+[520] [Step Debug] INFO: Checking remote connect back address.
+[520] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[520] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[520] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[520] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[520] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[520] [Step Debug] INFO: Checking remote connect back address.
+[520] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[520] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[520] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[520] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[520] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[520] [Step Debug] INFO: Checking remote connect back address.
+[520] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[520] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[520] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[520] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[520] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[520] Log closed at 2023-01-17 18:33:46.419545
+
+[522] Log opened at 2023-01-17 18:33:51.201603
+[522] [Step Debug] INFO: Checking remote connect back address.
+[522] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[522] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[522] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[522] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[522] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[522] [Step Debug] INFO: Checking remote connect back address.
+[522] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[522] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[522] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[522] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[522] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[522] [Step Debug] INFO: Checking remote connect back address.
+[522] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[522] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[522] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[522] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[522] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[522] Log closed at 2023-01-17 18:33:51.397888
+
+[524] Log opened at 2023-01-17 18:33:53.499872
+[524] [Step Debug] INFO: Checking remote connect back address.
+[524] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[524] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[524] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[524] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[524] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[524] [Step Debug] INFO: Checking remote connect back address.
+[524] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[524] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[524] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[524] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[524] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[524] [Step Debug] INFO: Checking remote connect back address.
+[524] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[524] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[524] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[524] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[524] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[524] Log closed at 2023-01-17 18:33:53.716310
+
+[526] Log opened at 2023-01-17 18:34:00.129970
+[526] [Step Debug] INFO: Checking remote connect back address.
+[526] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[526] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[526] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[526] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[526] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[526] [Step Debug] INFO: Checking remote connect back address.
+[526] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[526] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[526] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[526] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[526] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[526] Log closed at 2023-01-17 18:34:00.424424
+
+[528] Log opened at 2023-01-17 18:34:28.834402
+[528] [Step Debug] INFO: Checking remote connect back address.
+[528] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[528] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[528] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[528] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[528] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[528] [Step Debug] INFO: Checking remote connect back address.
+[528] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[528] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[528] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[528] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[528] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[528] [Step Debug] INFO: Checking remote connect back address.
+[528] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[528] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[528] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[528] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[528] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[528] Log closed at 2023-01-17 18:34:29.205200
+
+[530] Log opened at 2023-01-17 18:35:11.265187
+[530] [Step Debug] INFO: Checking remote connect back address.
+[530] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[530] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[530] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[530] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[530] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[530] [Step Debug] INFO: Checking remote connect back address.
+[530] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[530] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[530] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[530] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[530] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[530] Log closed at 2023-01-17 18:35:11.533403
+
+[532] Log opened at 2023-01-17 18:35:25.949055
+[532] [Step Debug] INFO: Checking remote connect back address.
+[532] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[532] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[532] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[532] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[532] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[532] [Step Debug] INFO: Checking remote connect back address.
+[532] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[532] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[532] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[532] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[532] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[532] Log closed at 2023-01-17 18:35:26.208102
+
+[534] Log opened at 2023-01-17 18:35:27.951076
+[534] [Step Debug] INFO: Checking remote connect back address.
+[534] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[534] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[534] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[534] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[534] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[534] [Step Debug] INFO: Checking remote connect back address.
+[534] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[534] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[534] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[534] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[534] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[534] [Step Debug] INFO: Checking remote connect back address.
+[534] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[534] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[534] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[534] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[534] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[534] Log closed at 2023-01-17 18:35:28.147165
+
+[536] Log opened at 2023-01-17 18:36:25.795047
+[536] [Step Debug] INFO: Checking remote connect back address.
+[536] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[536] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[536] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[536] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[536] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[536] [Step Debug] INFO: Checking remote connect back address.
+[536] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[536] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[536] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[536] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[536] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[536] [Step Debug] INFO: Checking remote connect back address.
+[536] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[536] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[536] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[536] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[536] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[536] Log closed at 2023-01-17 18:36:26.047143
+
+[538] Log opened at 2023-01-17 18:39:08.740152
+[538] [Step Debug] INFO: Checking remote connect back address.
+[538] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[538] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[538] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[538] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[538] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[538] [Step Debug] INFO: Checking remote connect back address.
+[538] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[538] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[538] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[538] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[538] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[538] Log closed at 2023-01-17 18:39:08.943972
+
+[540] Log opened at 2023-01-17 18:39:12.446367
+[540] [Step Debug] INFO: Checking remote connect back address.
+[540] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[540] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[540] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[540] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[540] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[540] [Step Debug] INFO: Checking remote connect back address.
+[540] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[540] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[540] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[540] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[540] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[540] Log closed at 2023-01-17 18:39:12.613130
+
+[542] Log opened at 2023-01-17 18:46:53.040905
+[542] [Step Debug] INFO: Checking remote connect back address.
+[542] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[542] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[542] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[542] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[542] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[542] [Step Debug] INFO: Checking remote connect back address.
+[542] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[542] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[542] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[542] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[542] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[542] [Step Debug] INFO: Checking remote connect back address.
+[542] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[542] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[542] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[542] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[542] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[542] Log closed at 2023-01-17 18:46:53.237327
+
+[544] Log opened at 2023-01-17 18:46:54.075678
+[544] [Step Debug] INFO: Checking remote connect back address.
+[544] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[544] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[544] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[544] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[544] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[544] [Step Debug] INFO: Checking remote connect back address.
+[544] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[544] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[544] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[544] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[544] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[544] [Step Debug] INFO: Checking remote connect back address.
+[544] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[544] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[544] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[544] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[544] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[544] Log closed at 2023-01-17 18:46:54.286720
+
+[546] Log opened at 2023-01-17 18:46:54.814633
+[546] [Step Debug] INFO: Checking remote connect back address.
+[546] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[546] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[546] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[546] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[546] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[546] [Step Debug] INFO: Checking remote connect back address.
+[546] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[546] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[546] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[546] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[546] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[546] [Step Debug] INFO: Checking remote connect back address.
+[546] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[546] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[546] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[546] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[546] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[546] Log closed at 2023-01-17 18:46:55.011147
+
+[548] Log opened at 2023-01-17 18:46:55.456799
+[548] [Step Debug] INFO: Checking remote connect back address.
+[548] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[548] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[548] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[548] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[548] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[548] [Step Debug] INFO: Checking remote connect back address.
+[548] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[548] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[548] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[548] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[548] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[548] [Step Debug] INFO: Checking remote connect back address.
+[548] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[548] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[548] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[548] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[548] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[548] Log closed at 2023-01-17 18:46:55.662565
+
+[550] Log opened at 2023-01-17 18:46:56.092868
+[550] [Step Debug] INFO: Checking remote connect back address.
+[550] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[550] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[550] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[550] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[550] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[550] [Step Debug] INFO: Checking remote connect back address.
+[550] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[550] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[550] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[550] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[550] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[550] [Step Debug] INFO: Checking remote connect back address.
+[550] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[550] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[550] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[550] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[550] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[550] Log closed at 2023-01-17 18:46:56.287077
+
+[552] Log opened at 2023-01-17 18:46:56.729689
+[552] [Step Debug] INFO: Checking remote connect back address.
+[552] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[552] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[552] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[552] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[552] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[552] [Step Debug] INFO: Checking remote connect back address.
+[552] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[552] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[552] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[552] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[552] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[552] [Step Debug] INFO: Checking remote connect back address.
+[552] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[552] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[552] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[552] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[552] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[552] Log closed at 2023-01-17 18:46:56.928326
+
+[554] Log opened at 2023-01-17 18:46:57.410531
+[554] [Step Debug] INFO: Checking remote connect back address.
+[554] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[554] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[554] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[554] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[554] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[554] [Step Debug] INFO: Checking remote connect back address.
+[554] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[554] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[554] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[554] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[554] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[554] [Step Debug] INFO: Checking remote connect back address.
+[554] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[554] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[554] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[554] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[554] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[554] Log closed at 2023-01-17 18:46:57.623075
+
+[556] Log opened at 2023-01-17 18:46:58.040596
+[556] [Step Debug] INFO: Checking remote connect back address.
+[556] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[556] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[556] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[556] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[556] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[556] [Step Debug] INFO: Checking remote connect back address.
+[556] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[556] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[556] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[556] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[556] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[556] [Step Debug] INFO: Checking remote connect back address.
+[556] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[556] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[556] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[556] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[556] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[556] Log closed at 2023-01-17 18:46:58.236913
+
+[558] Log opened at 2023-01-17 18:46:58.741529
+[558] [Step Debug] INFO: Checking remote connect back address.
+[558] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[558] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[558] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[558] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[558] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[558] [Step Debug] INFO: Checking remote connect back address.
+[558] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[558] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[558] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[558] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[558] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[558] [Step Debug] INFO: Checking remote connect back address.
+[558] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[558] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[558] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[558] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[558] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[558] Log closed at 2023-01-17 18:46:58.930076
+
+[560] Log opened at 2023-01-17 18:46:59.649044
+[560] [Step Debug] INFO: Checking remote connect back address.
+[560] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[560] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[560] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[560] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[560] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[560] [Step Debug] INFO: Checking remote connect back address.
+[560] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[560] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[560] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[560] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[560] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[560] [Step Debug] INFO: Checking remote connect back address.
+[560] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[560] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[560] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[560] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[560] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[560] Log closed at 2023-01-17 18:46:59.841903
+
+[562] Log opened at 2023-01-17 18:47:00.318824
+[562] [Step Debug] INFO: Checking remote connect back address.
+[562] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[562] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[562] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[562] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[562] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[562] [Step Debug] INFO: Checking remote connect back address.
+[562] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[562] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[562] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[562] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[562] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[562] [Step Debug] INFO: Checking remote connect back address.
+[562] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[562] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[562] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[562] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[562] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[562] Log closed at 2023-01-17 18:47:00.506840
+
+[564] Log opened at 2023-01-17 18:47:00.968272
+[564] [Step Debug] INFO: Checking remote connect back address.
+[564] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[564] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[564] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[564] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[564] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[564] [Step Debug] INFO: Checking remote connect back address.
+[564] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[564] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[564] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[564] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[564] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[564] [Step Debug] INFO: Checking remote connect back address.
+[564] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[564] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[564] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[564] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[564] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[564] Log closed at 2023-01-17 18:47:01.195828
+
+[566] Log opened at 2023-01-17 18:47:20.179592
+[566] [Step Debug] INFO: Checking remote connect back address.
+[566] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[566] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[566] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[566] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[566] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[566] [Step Debug] INFO: Checking remote connect back address.
+[566] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[566] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[566] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[566] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[566] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[566] [Step Debug] INFO: Checking remote connect back address.
+[566] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[566] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[566] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[566] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[566] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[566] Log closed at 2023-01-17 18:47:20.409903
+
+[568] Log opened at 2023-01-17 18:48:22.519309
+[568] [Step Debug] INFO: Checking remote connect back address.
+[568] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[568] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[568] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[568] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[568] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[568] [Step Debug] INFO: Checking remote connect back address.
+[568] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[568] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[568] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[568] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[568] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[568] [Step Debug] INFO: Checking remote connect back address.
+[568] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[568] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[568] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[568] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[568] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[568] [Step Debug] INFO: Checking remote connect back address.
+[568] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[568] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[568] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[568] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[568] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[568] Log closed at 2023-01-17 18:48:22.760665
+
+[570] Log opened at 2023-01-17 18:48:26.690115
+[570] [Step Debug] INFO: Checking remote connect back address.
+[570] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[570] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[570] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[570] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[570] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[570] [Step Debug] INFO: Checking remote connect back address.
+[570] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[570] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[570] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[570] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[570] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[570] [Step Debug] INFO: Checking remote connect back address.
+[570] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[570] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[570] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[570] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[570] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[570] Log closed at 2023-01-17 18:48:26.933740
+
+[572] Log opened at 2023-01-17 18:49:06.906591
+[572] [Step Debug] INFO: Checking remote connect back address.
+[572] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[572] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[572] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[572] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[572] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[572] [Step Debug] INFO: Checking remote connect back address.
+[572] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[572] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[572] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[572] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[572] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[572] [Step Debug] INFO: Checking remote connect back address.
+[572] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[572] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[572] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[572] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[572] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[572] Log closed at 2023-01-17 18:49:07.167165
+
+[574] Log opened at 2023-01-17 18:49:30.437586
+[574] [Step Debug] INFO: Checking remote connect back address.
+[574] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[574] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[574] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[574] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[574] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[574] [Step Debug] INFO: Checking remote connect back address.
+[574] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[574] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[574] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[574] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[574] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[574] [Step Debug] INFO: Checking remote connect back address.
+[574] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[574] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[574] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[574] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[574] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[574] Log closed at 2023-01-17 18:49:30.674271
+
+[576] Log opened at 2023-01-17 18:49:31.427485
+[576] [Step Debug] INFO: Checking remote connect back address.
+[576] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[576] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[576] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[576] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[576] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[576] [Step Debug] INFO: Checking remote connect back address.
+[576] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[576] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[576] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[576] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[576] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[576] [Step Debug] INFO: Checking remote connect back address.
+[576] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[576] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[576] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[576] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[576] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[576] Log closed at 2023-01-17 18:49:31.670980
+
+[578] Log opened at 2023-01-17 18:49:32.121575
+[578] [Step Debug] INFO: Checking remote connect back address.
+[578] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[578] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[578] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[578] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[578] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[578] [Step Debug] INFO: Checking remote connect back address.
+[578] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[578] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[578] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[578] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[578] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[578] [Step Debug] INFO: Checking remote connect back address.
+[578] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[578] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[578] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[578] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[578] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[578] Log closed at 2023-01-17 18:49:32.314564
+
+[580] Log opened at 2023-01-17 18:49:32.791126
+[580] [Step Debug] INFO: Checking remote connect back address.
+[580] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[580] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[580] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[580] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[580] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[580] [Step Debug] INFO: Checking remote connect back address.
+[580] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[580] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[580] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[580] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[580] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[580] [Step Debug] INFO: Checking remote connect back address.
+[580] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[580] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[580] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[580] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[580] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[580] Log closed at 2023-01-17 18:49:32.985929
+
+[582] Log opened at 2023-01-17 18:49:33.382282
+[582] [Step Debug] INFO: Checking remote connect back address.
+[582] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[582] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[582] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[582] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[582] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[582] [Step Debug] INFO: Checking remote connect back address.
+[582] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[582] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[582] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[582] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[582] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[582] [Step Debug] INFO: Checking remote connect back address.
+[582] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[582] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[582] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[582] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[582] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[582] Log closed at 2023-01-17 18:49:33.576756
+
+[584] Log opened at 2023-01-17 18:50:39.411680
+[584] [Step Debug] INFO: Checking remote connect back address.
+[584] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[584] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[584] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[584] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[584] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[584] [Step Debug] INFO: Checking remote connect back address.
+[584] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[584] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[584] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[584] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[584] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[584] Log closed at 2023-01-17 18:50:39.649338
+
+[586] Log opened at 2023-01-17 18:50:41.922536
+[586] [Step Debug] INFO: Checking remote connect back address.
+[586] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[586] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[586] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[586] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[586] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[586] [Step Debug] INFO: Checking remote connect back address.
+[586] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[586] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[586] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[586] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[586] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[586] [Step Debug] INFO: Checking remote connect back address.
+[586] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[586] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[586] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[586] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[586] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[586] Log closed at 2023-01-17 18:50:42.131217
+
+[588] Log opened at 2023-01-17 18:53:34.844940
+[588] [Step Debug] INFO: Checking remote connect back address.
+[588] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[588] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[588] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[588] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[588] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[588] [Step Debug] INFO: Checking remote connect back address.
+[588] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[588] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[588] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[588] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[588] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[588] [Step Debug] INFO: Checking remote connect back address.
+[588] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[588] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[588] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[588] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[588] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[588] [Step Debug] INFO: Checking remote connect back address.
+[588] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[588] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[588] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[588] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[588] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[588] Log closed at 2023-01-17 18:53:34.965412
+
+[589] Log opened at 2023-01-17 18:53:44.891535
+[589] [Step Debug] INFO: Checking remote connect back address.
+[589] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[589] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[589] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[589] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[589] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[589] [Step Debug] INFO: Checking remote connect back address.
+[589] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[589] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[589] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[589] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[589] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[589] Log closed at 2023-01-17 18:53:45.111711
+
+[591] Log opened at 2023-01-17 18:54:35.994679
+[591] [Step Debug] INFO: Checking remote connect back address.
+[591] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[591] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[591] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[591] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[591] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[591] [Step Debug] INFO: Checking remote connect back address.
+[591] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[591] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[591] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[591] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[591] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[591] [Step Debug] INFO: Checking remote connect back address.
+[591] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[591] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[591] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[591] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[591] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[591] [Step Debug] INFO: Checking remote connect back address.
+[591] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[591] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[591] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[591] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[591] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[591] Log closed at 2023-01-17 18:54:36.220064
+
+[593] Log opened at 2023-01-17 18:54:51.230162
+[593] [Step Debug] INFO: Checking remote connect back address.
+[593] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[593] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[593] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[593] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[593] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[593] [Step Debug] INFO: Checking remote connect back address.
+[593] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[593] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[593] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[593] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[593] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[593] Log closed at 2023-01-17 18:54:51.480251
+
+[595] Log opened at 2023-01-17 18:55:00.661800
+[595] [Step Debug] INFO: Checking remote connect back address.
+[595] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[595] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[595] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[595] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[595] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[595] [Step Debug] INFO: Checking remote connect back address.
+[595] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[595] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[595] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[595] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[595] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[595] [Step Debug] INFO: Checking remote connect back address.
+[595] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[595] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[595] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[595] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[595] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[595] Log closed at 2023-01-17 18:55:00.857090
+
+[597] Log opened at 2023-01-17 18:57:30.713644
+[597] [Step Debug] INFO: Checking remote connect back address.
+[597] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[597] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[597] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[597] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[597] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[597] [Step Debug] INFO: Checking remote connect back address.
+[597] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[597] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[597] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[597] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[597] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[597] [Step Debug] INFO: Checking remote connect back address.
+[597] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[597] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[597] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[597] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[597] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[597] [Step Debug] INFO: Checking remote connect back address.
+[597] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[597] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[597] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[597] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[597] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[597] Log closed at 2023-01-17 18:57:30.919257
+
+[599] Log opened at 2023-01-17 18:57:37.864861
+[599] [Step Debug] INFO: Checking remote connect back address.
+[599] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[599] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[599] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[599] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[599] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[599] [Step Debug] INFO: Checking remote connect back address.
+[599] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[599] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[599] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[599] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[599] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[599] [Step Debug] INFO: Checking remote connect back address.
+[599] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[599] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[599] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[599] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[599] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[599] Log closed at 2023-01-17 18:57:38.063646
+
+[602] Log opened at 2023-01-17 18:59:21.707520
+[602] [Step Debug] INFO: Checking remote connect back address.
+[602] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[602] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[602] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[602] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[602] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[602] [Step Debug] INFO: Checking remote connect back address.
+[602] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[602] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[602] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[602] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[602] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[602] Log closed at 2023-01-17 18:59:21.856419
+
+[604] Log opened at 2023-01-17 19:00:33.334447
+[604] [Step Debug] INFO: Checking remote connect back address.
+[604] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[604] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[604] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[604] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[604] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[604] [Step Debug] INFO: Checking remote connect back address.
+[604] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[604] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[604] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[604] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[604] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[604] Log closed at 2023-01-17 19:00:33.481094
+
+[8] Log opened at 2023-01-17 19:03:42.354480
+[8] [Step Debug] INFO: Checking remote connect back address.
+[8] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[8] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[8] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[8] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[8] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[8] [Step Debug] INFO: Checking remote connect back address.
+[8] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[8] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[8] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[8] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[8] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[8] Log closed at 2023-01-17 19:03:42.540185
+
+[7] Log opened at 2023-01-17 19:03:49.687120
+[7] [Step Debug] INFO: Checking remote connect back address.
+[7] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[7] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[7] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[7] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[7] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[7] [Step Debug] INFO: Checking remote connect back address.
+[7] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[7] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[7] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[7] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[7] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[7] Log closed at 2023-01-17 19:03:49.918332
+
+[8] Log opened at 2023-01-17 19:04:51.352034
+[8] [Step Debug] INFO: Checking remote connect back address.
+[8] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[8] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[8] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[8] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[8] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[8] [Step Debug] INFO: Checking remote connect back address.
+[8] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[8] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[8] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[8] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[8] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[8] Log closed at 2023-01-17 19:04:51.538781
+
+[606] Log opened at 2023-01-17 19:05:16.287413
+[606] [Step Debug] INFO: Checking remote connect back address.
+[606] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[606] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[606] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[606] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[606] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[606] [Step Debug] INFO: Checking remote connect back address.
+[606] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[606] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[606] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[606] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[606] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[606] [Step Debug] INFO: Checking remote connect back address.
+[606] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[606] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[606] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[606] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[606] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[606] Log closed at 2023-01-17 19:05:16.451364
+
+[608] Log opened at 2023-01-17 19:05:19.099754
+[608] [Step Debug] INFO: Checking remote connect back address.
+[608] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[608] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[608] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[608] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[608] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[608] [Step Debug] INFO: Checking remote connect back address.
+[608] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[608] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[608] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[608] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[608] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[608] Log closed at 2023-01-17 19:05:19.349595
+
+[610] Log opened at 2023-01-17 19:05:22.085962
+[610] [Step Debug] INFO: Checking remote connect back address.
+[610] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[610] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[610] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[610] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[610] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[610] [Step Debug] INFO: Checking remote connect back address.
+[610] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[610] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[610] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[610] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[610] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[610] [Step Debug] INFO: Checking remote connect back address.
+[610] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[610] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[610] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[610] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[610] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[610] Log closed at 2023-01-17 19:05:22.286379
+
+[7] Log opened at 2023-01-17 19:05:27.103582
+[7] [Step Debug] INFO: Checking remote connect back address.
+[7] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[7] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[7] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[7] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[7] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[7] [Step Debug] INFO: Checking remote connect back address.
+[7] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[7] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[7] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[7] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[7] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[7] Log closed at 2023-01-17 19:05:27.459506
+
+[8] Log opened at 2023-01-17 19:05:28.773053
+[8] [Step Debug] INFO: Checking remote connect back address.
+[8] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[8] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[8] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[8] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[8] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[8] [Step Debug] INFO: Checking remote connect back address.
+[8] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[8] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[8] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[8] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[8] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[8] Log closed at 2023-01-17 19:05:28.953669
+
+[7] Log opened at 2023-01-17 19:05:29.502877
+[7] [Step Debug] INFO: Checking remote connect back address.
+[7] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[7] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[7] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[7] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[7] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[7] [Step Debug] INFO: Checking remote connect back address.
+[7] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[7] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[7] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[7] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[7] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[7] Log closed at 2023-01-17 19:05:29.672372
+
+[8] Log opened at 2023-01-17 19:06:34.106705
+[8] [Step Debug] INFO: Checking remote connect back address.
+[8] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[8] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[8] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[8] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[8] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[8] [Step Debug] INFO: Checking remote connect back address.
+[8] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[8] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[8] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[8] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[8] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[8] Log closed at 2023-01-17 19:06:34.330536
+
+[7] Log opened at 2023-01-17 19:07:20.626821
+[7] [Step Debug] INFO: Checking remote connect back address.
+[7] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[7] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[7] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[7] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[7] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[7] [Step Debug] INFO: Checking remote connect back address.
+[7] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[7] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[7] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[7] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[7] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[7] Log closed at 2023-01-17 19:07:20.853794
+
+[612] Log opened at 2023-01-17 19:07:36.095822
+[612] [Step Debug] INFO: Checking remote connect back address.
+[612] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[612] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[612] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[612] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[612] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[612] [Step Debug] INFO: Checking remote connect back address.
+[612] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[612] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[612] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[612] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[612] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[612] [Step Debug] INFO: Checking remote connect back address.
+[612] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[612] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[612] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[612] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[612] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[612] Log closed at 2023-01-17 19:07:36.510041
+
+[8] Log opened at 2023-01-17 19:07:44.009544
+[8] [Step Debug] INFO: Checking remote connect back address.
+[8] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[8] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[8] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[8] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[8] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[8] [Step Debug] INFO: Checking remote connect back address.
+[8] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[8] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[8] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9004.
+[8] [Step Debug] WARN: Creating socket for '172.18.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[8] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9004 (from REMOTE_ADDR HTTP header), 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[8] Log closed at 2023-01-17 19:07:44.207939
+
+[14] Log opened at 2023-01-18 07:46:57.779813
+[14] [Step Debug] INFO: Checking remote connect back address.
+[14] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[14] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[14] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[14] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[14] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[16] Log opened at 2023-01-18 07:46:57.986125
+[16] [Step Debug] INFO: Checking remote connect back address.
+[16] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[16] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[16] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[16] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[16] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[36] Log opened at 2023-01-18 07:47:01.798446
+[36] [Step Debug] INFO: Checking remote connect back address.
+[36] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[36] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[36] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[36] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[36] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[36] [Step Debug] INFO: Checking remote connect back address.
+[36] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[36] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[36] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[36] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[36] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[36] Log closed at 2023-01-18 07:47:02.054783
+
+[16] Log closed at 2023-01-18 07:47:02.083816
+
+[14] [Step Debug] INFO: Checking remote connect back address.
+[14] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[14] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[14] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[14] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[14] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[14] Log closed at 2023-01-18 07:47:02.094108
+
+[39] Log opened at 2023-01-18 07:48:03.639429
+[39] [Step Debug] INFO: Checking remote connect back address.
+[39] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[39] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[39] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[39] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[39] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[41] Log opened at 2023-01-18 07:48:03.847834
+[41] [Step Debug] INFO: Checking remote connect back address.
+[41] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[41] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[41] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[41] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[41] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[61] Log opened at 2023-01-18 07:48:05.930596
+[61] [Step Debug] INFO: Checking remote connect back address.
+[61] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[61] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[61] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[61] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[61] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[61] [Step Debug] INFO: Checking remote connect back address.
+[61] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[61] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[61] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[61] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[61] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[61] Log closed at 2023-01-18 07:48:06.084614
+
+[41] Log closed at 2023-01-18 07:48:06.102623
+
+[39] [Step Debug] INFO: Checking remote connect back address.
+[39] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[39] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[39] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[39] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[39] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[39] Log closed at 2023-01-18 07:48:06.111117
+
+[64] Log opened at 2023-01-18 07:48:13.840459
+[64] [Step Debug] INFO: Checking remote connect back address.
+[64] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[64] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[64] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[64] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[64] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[66] Log opened at 2023-01-18 07:48:14.035757
+[66] [Step Debug] INFO: Checking remote connect back address.
+[66] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[66] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[66] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[66] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[66] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[86] Log opened at 2023-01-18 07:48:16.005453
+[86] [Step Debug] INFO: Checking remote connect back address.
+[86] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[86] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[86] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[86] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[86] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[86] [Step Debug] INFO: Checking remote connect back address.
+[86] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[86] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[86] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[86] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[86] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[86] Log closed at 2023-01-18 07:48:16.251849
+
+[66] Log closed at 2023-01-18 07:48:16.275743
+
+[64] [Step Debug] INFO: Checking remote connect back address.
+[64] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[64] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[64] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[64] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[64] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[64] Log closed at 2023-01-18 07:48:16.285268
+
+[89] Log opened at 2023-01-18 07:48:27.515990
+[89] [Step Debug] INFO: Checking remote connect back address.
+[89] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[89] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[89] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[89] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[89] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[91] Log opened at 2023-01-18 07:48:27.690036
+[91] [Step Debug] INFO: Checking remote connect back address.
+[91] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[91] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[91] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[91] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[91] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[111] Log opened at 2023-01-18 07:48:29.529470
+[111] [Step Debug] INFO: Checking remote connect back address.
+[111] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[111] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[111] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[111] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[111] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[111] [Step Debug] INFO: Checking remote connect back address.
+[111] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[111] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[111] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[111] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[111] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[111] Log closed at 2023-01-18 07:48:29.791569
+
+[91] Log closed at 2023-01-18 07:48:29.815659
+
+[89] [Step Debug] INFO: Checking remote connect back address.
+[89] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[89] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[89] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[89] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[89] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[89] Log closed at 2023-01-18 07:48:29.824829
+
+[114] Log opened at 2023-01-18 07:55:41.129371
+[114] [Step Debug] INFO: Checking remote connect back address.
+[114] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[114] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[114] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[114] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[114] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[116] Log opened at 2023-01-18 07:55:41.305686
+[116] [Step Debug] INFO: Checking remote connect back address.
+[116] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[116] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[116] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[116] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[116] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[136] Log opened at 2023-01-18 07:55:43.714827
+[136] [Step Debug] INFO: Checking remote connect back address.
+[136] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[136] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[136] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[136] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[136] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[136] [Step Debug] INFO: Checking remote connect back address.
+[136] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[136] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[136] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[136] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[136] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[136] Log closed at 2023-01-18 07:55:43.878645
+
+[116] Log closed at 2023-01-18 07:55:43.899200
+
+[114] [Step Debug] INFO: Checking remote connect back address.
+[114] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[114] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[114] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[114] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[114] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[114] Log closed at 2023-01-18 07:55:43.907783
+
+[139] Log opened at 2023-01-18 07:56:49.900823
+[139] [Step Debug] INFO: Checking remote connect back address.
+[139] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[139] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[139] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[139] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[139] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[139] [Step Debug] INFO: Checking remote connect back address.
+[139] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[139] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[139] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[139] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[139] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[139] Log closed at 2023-01-18 07:56:50.200892
+
+[141] Log opened at 2023-01-18 08:03:57.853901
+[141] [Step Debug] INFO: Checking remote connect back address.
+[141] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[141] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[141] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[141] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[141] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[141] [Step Debug] INFO: Checking remote connect back address.
+[141] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[141] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[141] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[141] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[141] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[141] Log closed at 2023-01-18 08:03:58.071333
+
+[143] Log opened at 2023-01-18 08:04:21.421042
+[143] [Step Debug] INFO: Checking remote connect back address.
+[143] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[143] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[143] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[143] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[143] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[143] [Step Debug] INFO: Checking remote connect back address.
+[143] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[143] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[143] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 127.0.0.1:9004. :-|
+[143] [Step Debug] WARN: Creating socket for '127.0.0.1:9004', poll success, but error: Operation now in progress (29).
+[143] [Step Debug] ERR: Could not connect to debugging client. Tried: 127.0.0.1:9004 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[143] Log closed at 2023-01-18 08:04:21.690501
+
